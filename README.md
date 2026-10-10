@@ -1,6 +1,6 @@
 # Hello, Word! Sou Talyson Souza Gomes.
 
-**Desenvolvedor Backend Python em formação | Belo Horizonte, MG**
+**Desenvolvedor Backend Python | Belo Horizonte, MG**
 
 💻 Sou estudante de Análise e Desenvolvimento de Sistemas e utilizo Python no ambiente profissional para automatizar planilhas, tratar dados e reduzir tarefas manuais. Essa experiência despertou meu interesse pelo desenvolvimento de software e pela criação de soluções para problemas reais.
 
