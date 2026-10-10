@@ -1,32 +1,60 @@
-# Hello, Word. I´m Talyson!
+# Hello, Word! Sou Talyson Souza Gomes.
 
-**Desenvolvedor Backend em formação, de Belo Horizonte (MG).**
+**Desenvolvedor Backend Python em formação | Belo Horizonte, MG**
 
-Uso Python no meu trabalho para automatizar planilhas e tratar dados, e foi daí que veio o meu gosto por transformar tarefas repetitivas em código. Hoje estudo Análise e Desenvolvimento de Sistemas e construo aplicações web e APIs com Flask e MySQL.
+💻 Sou estudante de Análise e Desenvolvimento de Sistemas e utilizo Python no ambiente profissional para automatizar planilhas, tratar dados e reduzir tarefas manuais. Essa experiência despertou meu interesse pelo desenvolvimento de software e pela criação de soluções para problemas reais.
 
-## O que estou buscando
+🚀 Atualmente, desenvolvo projetos próprios utilizando Python, Flask, APIs REST e MySQL, enquanto aprimoro meus conhecimentos em desenvolvimento backend.
 
-Minha primeira oportunidade como desenvolvedor backend, em vaga de **estágio ou júnior**, para aprender com um time, contribuir de verdade e crescer na área.
+## 🎯 Objetivo profissional
 
-## Tecnologias
+Busco uma oportunidade de estágio ou desenvolvedor backend júnior para aplicar meus conhecimentos, colaborar com uma equipe de desenvolvimento e evoluir tecnicamente por meio de projetos reais.
+
+## 🛠️ Tecnologias e ferramentas
 
 - **Backend:** Python, Flask, Flask-RESTful, APIs REST
-- **Bancos de dados:** MySQL, PostgreSQL, MariaDB
-- **Web:** HTML5, CSS3, JavaScript
+- **Banco de dados:** MySQL, PostgreSQL, MariaDB
+- **Desenvolvimento web:** HTML5, CSS3, JavaScript
 - **Ferramentas:** Git, GitHub, VS Code, PyCharm
 
-## Projetos em destaque
+## 📂 Projetos em destaque
 
-- **StudioBlack:** sistema de agendamento para barbearia, com painel administrativo. [Ver online](https://studioblack.up.railway.app/) · [Código](https://github.com/talysonsouzaa/Studio-Black)
-- **VitaWear:** e-commerce de loja de roupas, com login de usuários, catálogo de produtos e banco MySQL. [Ver online](https://vittawear.tech/)
-- **SheetFlow:** automação de planilhas em Python, criada a partir de uma necessidade real do meu trabalho. [Código](https://github.com/talysonsouzaa/SheetsFlowPy)
-- **Dev_API:** exemplos de APIs REST com Flask e Flask-RESTful. [Código](https://github.com/talysonsouzaa/dev_apis)
+### 💈 StudioBlack
 
-## Estudando agora
+Sistema web de agendamento para barbearia, com painel administrativo para gerenciamento de horários e interface para clientes.
 
-- Bootcamp Luizalabs: Back-end com Python (DIO)
-- Curso sobre o Claude
+- 🌐 [Acessar aplicação](https://studioblack.up.railway.app/)
+- 💻 [Ver código-fonte](https://github.com/talysonsouzaa/Studio-Black)
 
-## Vamos conversar
+### 🛍️ VitaWear
 
-[LinkedIn](https://www.linkedin.com/in/talyson-souza-gomes-b71992378)
+E-commerce com autenticação de usuários, catálogo de produtos e integração com banco de dados MySQL.
+
+- 🌐 [Acessar aplicação](https://vittawear.tech/)
+
+### 📊 SheetFlow
+
+Ferramenta desenvolvida em Python para leitura, processamento e preenchimento automático de planilhas, criada a partir de uma necessidade real do ambiente profissional.
+
+- 💻 [Ver código-fonte](https://github.com/talysonsouzaa/SheetsFlowPy)
+
+### ⚙️ Dev_API
+
+Repositório com exemplos de desenvolvimento de APIs REST utilizando Python, Flask e Flask-RESTful.
+
+- 💻 [Ver código-fonte](https://github.com/talysonsouzaa/dev_apis)
+
+## 🎓 Formação e aprendizado contínuo
+
+- Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul Virtual (em andamento)
+- Bootcamp Luizalabs — Back-end com Python (DIO)
+- Estudos complementares em Python, APIs REST, bancos de dados e ferramentas de inteligência artificial
+
+## 📫 Contato
+
+- 💼 **LinkedIn:** [Talyson Souza Gomes](https://www.linkedin.com/in/talyson-souza-gomes-b71992378)
+- 📧 **E-mail:** Talysonsouzadevpy@gmail.com
+
+---
+
+⭐ Aberto a oportunidades de estágio e posições júnior em desenvolvimento backend Python.
