@@ -37,7 +37,11 @@ Ferramenta em Python para ler, processar e preencher planilhas automaticamente, 
 - Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul Virtual (em andamento)
 - Bootcamp Luizalabs — Back-end com Python (DIO)
 
+
+
 <img src="https://raw.githubusercontent.com/talysonsouzaa/talysonsouzaa/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%"/>
+
+
 
 ## 📫 Contato
 
