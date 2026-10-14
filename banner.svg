@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a0845">
+        <animate attributeName="stop-color" values="#2a0845;#5b21b6;#7c3aed;#2a0845" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#5b21b6">
+        <animate attributeName="stop-color" values="#5b21b6;#7c3aed;#2a0845;#5b21b6" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#2a0845;#5b21b6;#7c3aed" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c4b5fd" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#c4b5fd" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="round"><rect width="1000" height="220" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="220" fill="url(#bg)"/>
+
+    <circle r="160" fill="url(#glow1)">
+      <animate attributeName="cx" values="100;900;100" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="40;190;40" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="130" fill="url(#glow1)">
+      <animate attributeName="cx" values="900;150;900" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="180;30;180" dur="13s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="500" y="105" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Talyson Souza Gomes</text>
+    <text x="500" y="148" text-anchor="middle" fill="#ddd6fe" font-family="Segoe UI, Arial, sans-serif" font-size="22">Desenvolvedor Backend Python</text>
+  </g>
+</svg>
