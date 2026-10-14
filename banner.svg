@@ -1,36 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Talyson Souza Gomes - Desenvolvedor Backend Python">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2a0845">
-        <animate attributeName="stop-color" values="#2a0845;#5b21b6;#7c3aed;#2a0845" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#5b21b6">
-        <animate attributeName="stop-color" values="#5b21b6;#7c3aed;#2a0845;#5b21b6" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#7c3aed">
-        <animate attributeName="stop-color" values="#7c3aed;#2a0845;#5b21b6;#7c3aed" dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#c4b5fd" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#c4b5fd" stop-opacity="0"/>
-    </radialGradient>
-    <clipPath id="round"><rect width="1000" height="220" rx="16"/></clipPath>
+    <clipPath id="round"><rect width="1000" height="220" rx="14"/></clipPath>
+    <clipPath id="typing">
+      <rect x="60" y="66" width="0" height="56">
+        <animate attributeName="width" values="0;458;458;0" keyTimes="0;0.45;0.9;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
   </defs>
 
   <g clip-path="url(#round)">
-    <rect width="1000" height="220" fill="url(#bg)"/>
+    <rect width="1000" height="220" fill="#12061f"/>
+    <rect width="1000" height="44" fill="#1d0a35"/>
+    <circle cx="30" cy="22" r="6" fill="#6d28d9"/>
+    <circle cx="52" cy="22" r="6" fill="#8b5cf6"/>
+    <circle cx="74" cy="22" r="6" fill="#c4b5fd"/>
+    <text x="500" y="27" text-anchor="middle" fill="#8b7bb5" font-family="'Courier New', Courier, monospace" font-size="13">Talysonsouzadevpy@gmail.com</text>
 
-    <circle r="160" fill="url(#glow1)">
-      <animate attributeName="cx" values="100;900;100" dur="14s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="40;190;40" dur="11s" repeatCount="indefinite"/>
-    </circle>
-    <circle r="130" fill="url(#glow1)">
-      <animate attributeName="cx" values="900;150;900" dur="17s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="180;30;180" dur="13s" repeatCount="indefinite"/>
-    </circle>
+    <text x="60" y="108" fill="#ffffff" font-family="'Courier New', Courier, monospace" font-size="36" clip-path="url(#typing)">&gt; Talyson Souza Gomes</text>
 
-    <text x="500" y="105" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Talyson Souza Gomes</text>
-    <text x="500" y="148" text-anchor="middle" fill="#ddd6fe" font-family="Segoe UI, Arial, sans-serif" font-size="22">Desenvolvedor Backend Python</text>
+    <rect y="74" width="14" height="38" fill="#c4b5fd">
+      <animate attributeName="x" values="60;518;518;60" keyTimes="0;0.45;0.9;1" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="60" y="148" fill="#d8c8ff" font-family="'Courier New', Courier, monospace" font-size="21" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.55;0.9;1" dur="7s" repeatCount="indefinite"/>
+      Desenvolvedor Backend Python
+    </text>
+
+    <text x="60" y="184" fill="#a78bfa" font-family="'Courier New', Courier, monospace" font-size="16" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;0.5;0.58;0.65;0.9;1" dur="7s" repeatCount="indefinite"/>
+      # Python | Desenvolvimento Web | APIs REST | Flask | MySQL | Git
+    </text>
   </g>
 </svg>
