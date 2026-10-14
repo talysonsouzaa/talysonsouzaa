@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.svg" alt="Banner Talyson Souza Gomes" width="100%"/>
+</p>
+
 # Hello, Word! Sou Talyson Souza Gomes.
 
 **Desenvolvedor Backend Python | Belo Horizonte, MG**
@@ -49,6 +53,10 @@ Repositório com exemplos de desenvolvimento de APIs REST utilizando Python, Fla
 - Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul Virtual (em andamento)
 - Bootcamp Luizalabs — Back-end com Python (DIO)
 - Estudos complementares em Python, APIs REST, bancos de dados e ferramentas de inteligência artificial
+
+## 🎮 Minhas contribuições
+
+<img src="https://raw.githubusercontent.com/talysonsouzaa/talysonsouzaa/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%"/>
 
 ## 📫 Contato
 
