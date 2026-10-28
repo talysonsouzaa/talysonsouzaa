@@ -10,7 +10,7 @@ Busco estágio ou vaga de desenvolvedor backend júnior para aplicar meus conhec
 
 ## 🛠️ Tecnologias
 
-Python · Flask · Flask-RESTful · APIs REST · MySQL · PostgreSQL · MariaDB · HTML5 · CSS3 · JavaScript · Git · GitHub · VS Code · PyCharm
+Python · Flask · Flask-RESTful · APIs REST · MySQL · HTML5 · CSS3 · JavaScript · Git · GitHub · VS Code · PyCharm
 
 ## 📂 Projetos em destaque
 
