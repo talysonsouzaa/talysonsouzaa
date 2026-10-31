@@ -34,8 +34,15 @@ Ferramenta em Python para ler, processar e preencher planilhas automaticamente, 
 
 ## 🎓 Formação
 
-- Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul Virtual (em andamento)
-- Bootcamp Luizalabs — Back-end com Python (DIO)
+- Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul Virtual (Previsão de termino 07/27)
+- Formação Python - DIO (Digital Innovation One)
+- Flask API e Flask-RESTful - DIO (Digital Innovation One)
+- Banco de Dados MySQL (Udemy)
+- Claude (Anthropic)
+- Desenvolvimento Web: Fundamentos - DIO (Digital Innovation One)
+- Git e GitHub - DIO (Digital Innovation One)
+
+
 
 
 
